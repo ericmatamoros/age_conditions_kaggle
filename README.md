@@ -1,4 +1,4 @@
-# FloorPrice NFT Tracker
+# ICR - Identify Age Related Conditions with ML
 
 This repository contains the Machine Learning code used to detect conditions with measurements of anonymous characteristics due to age. 
 
