@@ -1,0 +1,5 @@
+# Package dependencies
+pandas
+numpy
+pyyaml
+jupyter
