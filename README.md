@@ -1,9 +1,6 @@
-# ICR - Identify Age Related Conditions with ML
+# AutoDatathon
 
-This repository contains the Machine Learning code used to detect conditions with measurements of anonymous characteristics due to age. 
-
-This is part of a Kaggle challenge that can be found in: https://www.kaggle.com/competitions/icr-identify-age-related-conditions/data?select=train.csv
-
+This repository contains a package that can be served to automatically obtain classes and functionalities for Datathons
 
 ## Set up virtual environment & install dependencies
 
